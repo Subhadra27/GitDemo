@@ -31,6 +31,7 @@ public class GreatestNumberAmong4 {
 		input3=87;
 		input4=97;
 		System.out.println("The greatest num is "+ greatestNumber(input1,input2,input3,input4));
+		System.out.println("print the correct number");
 
 	}
 
